@@ -1,0 +1,68 @@
+APPETIZER
+1
+Calamari
+5.99
+2
+Classic squid rings covered
+in seasoned panko bread crumbs
+APPETIZER
+2
+Buttermilk-Biscuit
+6.72
+2
+A fluffy, flaky, creamy, and savoury pastry
+smothered in a garlic herb butter
+APPETIZER
+3
+Garlic Truffle bread
+9.99
+2
+Oven-baked bread, topped with Garlic Butter,
+parsley, and shredded truffle
+MAIN
+1
+Honey-Garlic Ribs /w Side Salad
+11.56
+3
+Try out these delicious ribs that had been smoked for 24 hours
+smothered in our signature Honey-Garlic glaze, and served
+with a classic Caesar Salad
+MAIN
+2
+Fillet Mignon /w Risotto
+12.67
+4
+Classic basted Fillet Mignon
+served with a creamy Risotto cooked with white wine
+topped with fried garlic pieces
+and a red wine reduction on the side of the fillet mignon
+MAIN
+3
+Chicken Cordon Bleu
+10.56
+2
+Chicken breast that is stuffed with
+feta and cheddar cheese, truffle, Pineapple-smoked ham
+DESSERT
+1
+Tiramisu Cheesecake
+7.99
+3
+Light, and fluffy cake
+layered with cream and marscapone cheese
+topped with coffee powder
+DESSERT
+2
+S'mores Ice Cream Deluxe
+9.54
+3
+Vanilla Ice Cream that is mixed with
+mini chocolate pieces, graham cracker crumble
+bit of marshmallow fluff and topped with whipped cream
+DESSERT
+3
+3-Layered Meringue
+8.99
+2
+Meringue layered with Vanilla Cream
+drizzled with chocolate sauce made from 70% dark chocolate
